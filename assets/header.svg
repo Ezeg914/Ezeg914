@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="t d">
-  <title id="t">Ezequiel Garcia: Mobile, Backend, Computer Vision</title>
+  <title id="t">Ezequiel Garcia: AI Engineer, Backend, Computer Vision</title>
   <desc id="d">Banner animado: un celular detecta un rostro en un video y el resultado se dibuja en un gráfico de radar de siete emociones.</desc>
   <defs>
     <style>
@@ -59,7 +59,7 @@
   <!-- Texto -->
   <text class="sans" x="64" y="98" font-size="22" fill="#8B9AB5">Hola, soy</text>
   <text class="sans" x="62" y="162" font-size="62" font-weight="700" fill="#E6EDF7">Ezequiel Garcia</text>
-  <text class="sans" x="64" y="206" font-size="27" font-weight="600" fill="url(#accent)">Mobile · Backend · Computer Vision</text>
+  <text class="sans" x="64" y="206" font-size="27" font-weight="600" fill="url(#accent)">AI Engineer · Backend · Computer Vision</text>
 
   <text class="mono" x="64" y="257" font-size="22" font-weight="700" fill="#22D3EE">&gt;</text>
   <g class="mono" font-size="22" fill="#C7D2E5">
@@ -130,11 +130,11 @@
     <circle r="3" fill="#22D3EE"/>
     <g class="mono" font-size="14" fill="#8B9AB5">
       <text x="0" y="-100" text-anchor="middle">happy</text>
-      <text x="79" y="-62">surprise</text>
+      <text x="79" y="-62">surprised</text>
       <text x="97" y="27">neutral</text>
       <text x="44" y="101">sad</text>
-      <text x="-44" y="101" text-anchor="end">fear</text>
-      <text x="-97" y="27" text-anchor="end">disgust</text>
+      <text x="-44" y="101" text-anchor="end">fearful</text>
+      <text x="-97" y="27" text-anchor="end">disgusted</text>
       <text x="-79" y="-62" text-anchor="end">angry</text>
     </g>
   </g>
