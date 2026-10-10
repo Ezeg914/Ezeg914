@@ -9,8 +9,8 @@
 ## Sobre mí
 
 - Estudiante de Ingeniería en Informática en la **Universidad de Mendoza**.
-- Armo aplicaciones de punta a punta: la app móvil en **Flutter**, la API en **FastAPI** o **Spring Boot** y la base de datos que las sostiene.
-- Me interesa la IA aplicada a problemas reales, sobre todo visión por computadora: en mis proyectos el backend procesa video e imágenes con **TensorFlow**, **YOLOv8** y **OpenCV**.
+- Armo aplicaciones de punta a punta: la app móvil en **Flutter** o **React Native**, la API en **FastAPI** o **Spring Boot** y la base de datos que las sostiene.
+- Me interesa la IA aplicada a problemas reales, sobre todo visión por computadora: detección de objetos con **YOLOv8** para evaluar soldaduras y clasificación de emociones en video con **TensorFlow** y **OpenCV**.
 - Acostumbrado a trabajar en equipo con Git, ramas y pull requests.
 
 ## Tecnologías
@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge" alt="YOLOv8">
   <img src="https://img.shields.io/badge/SQLModel-7E56C2?style=for-the-badge" alt="SQLModel">
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic">
+  <img src="https://img.shields.io/badge/Expo-1C2024?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
   <img src="https://img.shields.io/badge/JWT-475569?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
   <img src="https://img.shields.io/badge/REST_API-0E7490?style=for-the-badge" alt="REST API">
 </p>
@@ -43,29 +44,29 @@
       <br><br>
       <sub><code>Flutter</code> <code>FastAPI</code> <code>TensorFlow</code> <code>OpenCV</code></sub>
       <br><br>
-      🔗 <a href="https://github.com/Ezeg914/Orator-IA"><b>Repo</b></a>
+      🔗 <a href="https://github.com/Ezeg914/Orator-IA"><b>Repo</b></a> · <a href="https://github.com/Ezeg914/Orator-IA/tree/main/backend"><b>API</b></a> · <a href="https://github.com/Ezeg914/Orator-IA/tree/main/frontend/oratoria"><b>App</b></a>
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/Ezeg914/Welding-IA">
         <img src="assets/welding-ia.svg" width="100%" alt="Welding-IA">
       </a>
       <br>
-      <sub>App que evalúa soldaduras a partir de una foto. Un modelo YOLOv8 detecta cada cordón y lo clasifica como buena soldadura, mala soldadura o defecto, y cada caño guarda su historial de imágenes analizadas.</sub>
+      <sub>App para inspeccionar soldaduras en caños desde el celular. Se saca una foto y un modelo YOLOv8m marca cada cordón como buena soldadura, mala soldadura o defecto, con su nivel de confianza. Cada caño guarda el historial de imágenes analizadas.</sub>
       <br><br>
-      <sub><code>Flutter</code> <code>FastAPI</code> <code>YOLOv8</code></sub>
+      <sub><code>Flutter</code> <code>FastAPI</code> <code>YOLOv8</code> <code>MySQL</code></sub>
       <br><br>
-      🔗 <a href="https://github.com/Ezeg914/Welding-IA"><b>Repo</b></a>
+      🔗 <a href="https://github.com/Ezeg914/Welding-IA"><b>Repo</b></a> · <a href="https://github.com/Ezeg914/Welding-IA/tree/main/backend"><b>API</b></a> · <a href="https://github.com/Ezeg914/Welding-IA/tree/main/backend/detector/models/welding_v1_aug15"><b>Modelo</b></a>
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://github.com/Ezeg914/GoTicket">
         <img src="assets/goticket.svg" width="100%" alt="GoTicket">
       </a>
       <br>
-      <sub>App móvil y API REST para buscar y reservar pasajes de colectivos de larga distancia, con autenticación por JWT. Proyecto en equipo de tres personas.</sub>
+      <sub>App móvil y API REST para buscar y reservar pasajes de colectivos de larga distancia. Búsqueda de viajes por origen y destino con resultados paginados, reservas que descuentan asientos y login con JWT y Argon2. Proyecto en equipo de tres personas.</sub>
       <br><br>
-      <sub><code>React Native</code> <code>Spring Boot</code> <code>MySQL</code></sub>
+      <sub><code>React Native</code> <code>Expo</code> <code>Spring Boot</code> <code>MySQL</code></sub>
       <br><br>
-      🔗 <a href="https://github.com/Ezeg914/GoTicket"><b>Repo</b></a>
+      🔗 <a href="https://github.com/Ezeg914/GoTicket"><b>Repo</b></a> · <a href="https://github.com/Ezeg914/GoTicket/tree/main/backend"><b>API</b></a> · <a href="https://github.com/Ezeg914/GoTicket/tree/main/frontend"><b>App</b></a>
     </td>
   </tr>
 </table>
