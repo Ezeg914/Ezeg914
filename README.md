@@ -1,39 +1,81 @@
-# Hola, soy Ezequiel 👋
+<div align="center">
+  <img src="assets/header.svg" width="100%" alt="Ezequiel Garcia. Mobile, Backend y Computer Vision. Flutter, FastAPI, Spring Boot, TensorFlow y OpenCV.">
+</div>
 
-Estudiante de Ingeniería en Informática en la Universidad de Mendoza, Argentina.
-Me gusta armar aplicaciones de punta a punta: la app móvil, la API que la sostiene y, cuando el problema lo pide, un modelo de visión por computadora detrás.
+<p align="center">📍 Mendoza, Argentina · 🟢 Abierto a nuevas oportunidades</p>
+
+---
+
+## Sobre mí
+
+- Estudiante de Ingeniería en Informática en la **Universidad de Mendoza**.
+- Armo aplicaciones de punta a punta: la app móvil en **Flutter**, la API en **FastAPI** o **Spring Boot** y la base de datos que las sostiene.
+- Me interesa la visión por computadora aplicada a problemas reales: en mis proyectos el backend procesa video e imágenes con **TensorFlow** y **OpenCV**.
+- Acostumbrado a trabajar en equipo con Git, ramas y pull requests.
 
 ## Tecnologías
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,py,fastapi,tensorflow,opencv&theme=dark" alt="Flutter, Dart, Python, FastAPI, TensorFlow, OpenCV"><br>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,sqlite,git,github&theme=dark" alt="Java, Spring Boot, MySQL, SQLite, Git, GitHub">
+</p>
 
-## Proyectos
+<p align="center">
+  <img src="https://img.shields.io/badge/SQLModel-7E56C2?style=for-the-badge" alt="SQLModel">
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic">
+  <img src="https://img.shields.io/badge/JWT-475569?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
+  <img src="https://img.shields.io/badge/REST_API-0E7490?style=for-the-badge" alt="REST API">
+</p>
 
-### [Orator-IA](https://github.com/Ezeg914/Orator-IA)
-App para practicar oratoria. Grabás o subís un video desde el celular y el backend detecta el rostro y analiza las emociones cuadro por cuadro; el resultado se muestra en un gráfico de radar con las 7 emociones. Cada usuario tiene su cuenta y su propia galería de videos.
+---
 
-`Flutter` · `FastAPI` · `TensorFlow` · `OpenCV` · `SQLModel` · `JWT`
+## Proyectos destacados
 
-### [Welding-IA](https://github.com/Ezeg914/Welding-IA)
-Aplicación móvil en Flutter con backend en Python para el análisis de soldaduras a partir de imágenes.
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="https://github.com/Ezeg914/Orator-IA">
+        <img src="assets/orator-ia.svg" width="100%" alt="Orator-IA">
+      </a>
+      <br>
+      <sub>App para practicar oratoria. Se graba o se sube un video desde el celular, el backend detecta el rostro y clasifica las emociones cuadro por cuadro, y la app muestra el resultado en un gráfico de radar. Con cuentas de usuario y galería propia.</sub>
+      <br><br>
+      <sub><code>Flutter</code> <code>FastAPI</code> <code>TensorFlow</code> <code>OpenCV</code></sub>
+      <br><br>
+      🔗 <a href="https://github.com/Ezeg914/Orator-IA"><b>Repo</b></a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://github.com/Ezeg914/Welding-IA">
+        <img src="assets/welding-ia.svg" width="100%" alt="Welding-IA">
+      </a>
+      <br>
+      <sub>Aplicación móvil en Flutter con backend en Python para analizar soldaduras a partir de imágenes.</sub>
+      <br><br>
+      <sub><code>Flutter</code> <code>Python</code></sub>
+      <br><br>
+      🔗 <a href="https://github.com/Ezeg914/Welding-IA"><b>Repo</b></a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://github.com/Ezeg914/GoTicket">
+        <img src="assets/goticket.svg" width="100%" alt="GoTicket">
+      </a>
+      <br>
+      <sub>Backend de una app de venta de pasajes de colectivos de larga distancia, con autenticación por JWT. Proyecto en equipo de tres personas.</sub>
+      <br><br>
+      <sub><code>Java 17</code> <code>Spring Boot 3</code></sub>
+      <br><br>
+      🔗 <a href="https://github.com/Ezeg914/GoTicket"><b>Repo</b></a>
+    </td>
+  </tr>
+</table>
 
-`Flutter` · `Python`
-
-### [GoTicket](https://github.com/Ezeg914/GoTicket)
-Backend de una app de venta de pasajes de colectivos de larga distancia, con autenticación por JWT. Proyecto en equipo para Programación 2.
-
-`Java 17` · `Spring Boot 3`
+---
 
 ## Colaboraciones
 
-- [ticketek_2024](https://github.com/j0k3rD/ticketek_2024) — Python
-- [Ing.software](https://github.com/bruno212121/Ing.software) — proyecto de Ingeniería de Software, Universidad de Mendoza
+- [**ticketek_2024**](https://github.com/j0k3rD/ticketek_2024) · Python
+- [**Ing.software**](https://github.com/bruno212121/Ing.software) · proyecto de Ingeniería de Software, Universidad de Mendoza
+
+## Formación
+
+**Ingeniería en Informática** · Universidad de Mendoza
